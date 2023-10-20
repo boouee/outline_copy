@@ -91,3 +91,5 @@ Release builds on CI are configured with a production Sentry API key.
 ## Support
 
 For support and to contact us, see: https://support.getoutline.org.
+
+https://docs.getoutline.com/s/hosting/doc/from-source-BlBxrNzMIP
